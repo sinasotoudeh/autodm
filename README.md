@@ -5,7 +5,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![WordPress](https://img.shields.io/badge/WordPress-Theme-21759B?style=flat&logo=wordpress&logoColor=white)](https://developer.wordpress.org/themes/)
 [![Vanilla JS](https://img.shields.io/badge/No_Dependencies-Vanilla_JS-brightgreen?style=flat)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat)](LICENSE)
 
 A fully custom, pixel-perfect SaaS landing page — designed and built entirely from scratch.  
 No UI frameworks. No animation libraries. No jQuery. Every line written by hand.
